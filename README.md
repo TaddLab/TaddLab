@@ -4,18 +4,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TaddLab" alt="TaddLab" /></a> </p>
 
-- 🔭 I'm currently working on **[fs-lab](https://github.com/fs-lab-system/fs-lab-overview)**
+- **🔭 I'm currently working on:** **[fs-lab](https://github.com/fs-lab-system/fs-lab-overview)**
 
-- 🌱 I'm currently learning **- CSS animations
-- AI tools **
+- **🌱 I'm currently learning:**
+  - CSS animations
+  - AI tools
 
-- 💬 Ask me about **- Frontend-Backend Basics
-- ESP32 basics
-- experimental project setups**
+- **💬 Ask me about:**
+  - Frontend-Backend Basics
+  - ESP32 basics
+  - experimental project setups
 
-- ⚡ Fun fact **I started with PHP and somehow never stopped experimenting.**
+- **⚡ Fun fact:** I started with PHP and somehow never stopped experimenting.
 
-- 👨‍💻 All of my projects are available at **[https://github.com/TaddLab](https://github.com/TaddLab)**
+- **👨‍💻 All of my projects are available at** **[https://github.com/TaddLab](https://github.com/TaddLab)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
